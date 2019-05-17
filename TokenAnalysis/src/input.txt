@@ -1,0 +1,10 @@
+
+public void main(String []args) {
+		Analyzer analyzer = new Analyzer("./src/input.txt");
+		analyzer.analyse();
+int i = 2;
+i += 5;
+i /= 4;
+double j = 6.5566s;
+i += j;
+	}
